@@ -33,7 +33,7 @@ window.__DRAFTS__ = [
 
 window.__OBJECTS__ = {
   'famous': ['Guido Van Rossum', 'Alva Noto', 'Tom Odell',
-             'Evgeny Grinko', 'Kahtalı Mıçı'],
+             'Evgeny Grinko', 'Hegel'],
   'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'kumar'],
   'group': ['veliler', 'emekliler'],
   'organizationMember': ['sevenleri', 'fanları', 'ayranları'],
@@ -102,5 +102,5 @@ window.__IMAGES__ = {
   'yağmur': ['piyano.png', 'cover'],
   'sıcak': ['asfalt.png', 'cover'],
   'kumar': ['kumar.png', 'cover'],
-  'Kahtalı Mıçı': ['kahtalimici.png', 'centered']
+  'Hegel': ['hegel.png', 'centered'],
 };

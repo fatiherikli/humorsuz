@@ -24,7 +24,8 @@ window.__DRAFTS__ = [
   "<%= random('town', ['quote', 'static']) %> bu sabah yapılan operasyonda <%= random('number') %> adet kaçak <%= random('weapon') %> ele geçirildi",
   "<%= random('town', ['quote', 'static']) %> tarım arazilerinde <%= random('bug') %> istilası",
   "<%= random('town', ['quote', 'static']) %> yasağa sinirlenip kepçeyle <%= random('noun') %> yediler",
-  "Asfaltta <%= random('noun') %> pişirdiler"
+  "Asfaltta <%= random('noun') %> pişirdiler",
+  "<%= random('famous') %> öyle bir şey dedi ki"
 ];
 
 window.__OBJECTS__ = {

@@ -28,15 +28,16 @@ window.__DRAFTS__ = [
   "Bilim dünyasını şok eden keşif!",
   "<%= random('famous') %> öyle bir şey dedi ki",
   "İşte villada <%= random('game') %> oynarken yakalanan o ünlüler!",
-  "Ünlü şarkıcı <%= random('famous') %>, <%= random('game') %> oynayan arkadaşını <%= random('number') %> yerinden bıçakladı"
+  "Ünlü şarkıcı <%= random('famous') %>, <%= random('game') %> oynayan arkadaşını <%= random('number') %> yerinden bıçakladı",
+
 ];
 
 window.__OBJECTS__ = {
   'famous': ['Guido Van Rossum', 'Alva Noto', 'Tom Odell',
              'Evgeny Grinko', 'Kahtalı Mıçı'],
-  'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'kumar'],
+  'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'kumar', 'ebelemece'],
   'group': ['veliler', 'emekliler'],
-  'organizationMember': ['sevenleri', 'fanları', 'ayranları'],
+  'organizationMember': ['sevenleri', 'fanları', 'hayranları'],
   'vehicle': ['metrobüs', 'at', 'Tom Odell', 'Evgeny Grinko', 'selfie çubuğu', 'Boeing 777'],
   'punishment': ['idam', 'hapis', 'halay', 'zeybek'],
   'town': ['Burdur', 'Bilecik', 'Ankara', 'Karabük', 'Bolu', 'Samsun', 'Adana', 'Adıyaman'],
@@ -47,7 +48,8 @@ window.__OBJECTS__ = {
     'muz', 'Tom Odell', 'ak-47', 'roketatar',
     'Macbook Pro', 'sigara', 'Evgeny Grinko',
     'nükleer silah', 'Boeing 777',
-    'lama', 'metrobüs', 'selfie çubuğu'
+    'lama', 'metrobüs', 'selfie çubuğu',
+    'hoparlör', 'fotoğraf'
   ],
   'weather': ['kar', 'yağmur', 'sıcak'],
   'cigar': ['sigara', 'pipo tütünü'],
@@ -102,5 +104,7 @@ window.__IMAGES__ = {
   'yağmur': ['piyano.png', 'cover'],
   'sıcak': ['asfalt.png', 'cover'],
   'kumar': ['kumar.png', 'cover'],
-  'Kahtalı Mıçı': ['kahtalimici.png', 'centered']
+  'Kahtalı Mıçı': ['kahtalimici.png', 'centered'],
+  'hoparlör': ['hoparlor.png', 'centered'],
+  'fotoğraf': ['fotograf.jpg', 'cover']
 };

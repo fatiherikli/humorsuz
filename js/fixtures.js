@@ -37,7 +37,7 @@ window.__OBJECTS__ = {
              'Evgeny Grinko', 'Kahtalı Mıçı'],
   'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'kumar', 'ebelemece'],
   'group': ['veliler', 'emekliler'],
-  'organizationMember': ['sevenleri', 'fanları', 'hayranları'],
+  'organizationMember': ['sevenleri', 'fanları', 'ayranları'],
   'vehicle': ['metrobüs', 'at', 'Tom Odell', 'Evgeny Grinko', 'selfie çubuğu', 'Boeing 777'],
   'punishment': ['idam', 'hapis', 'halay', 'zeybek'],
   'town': ['Burdur', 'Bilecik', 'Ankara', 'Karabük', 'Bolu', 'Samsun', 'Adana', 'Adıyaman'],

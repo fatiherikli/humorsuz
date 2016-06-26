@@ -106,5 +106,5 @@ window.__IMAGES__ = {
   'kumar': ['kumar.png', 'cover'],
   'Kahtalı Mıçı': ['kahtalimici.png', 'centered'],
   'hoparlör': ['hoparlor.png', 'centered'],
-  'fotoğraf': ['fotograf.jpg', 'cover']
+  'fotoğraf': ['fotograf.png', 'cover']
 };

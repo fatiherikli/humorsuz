@@ -35,7 +35,7 @@ window.__DRAFTS__ = [
 window.__OBJECTS__ = {
   'famous': ['Guido Van Rossum', 'Alva Noto', 'Tom Odell',
              'Evgeny Grinko', 'Kahtalı Mıçı'],
-  'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'kumar', 'ebelemece'],
+  'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'ebelemece'],
   'group': ['veliler', 'emekliler'],
   'organizationMember': ['sevenleri', 'fanları', 'ayranları'],
   'vehicle': ['metrobüs', 'at', 'Tom Odell', 'Evgeny Grinko', 'selfie çubuğu', 'Boeing 777'],
@@ -46,7 +46,7 @@ window.__OBJECTS__ = {
   'noun': [
     'buzdolabı', 'menemen', 'gülle', 'at',
     'muz', 'Tom Odell', 'ak-47', 'roketatar',
-    'Macbook Pro', 'sigara', 'Evgeny Grinko',
+    'Macbook Air', 'sigara', 'Evgeny Grinko',
     'nükleer silah', 'Boeing 777',
     'lama', 'metrobüs', 'selfie çubuğu',
     'hoparlör', 'fotoğraf'

@@ -33,7 +33,7 @@ window.__DRAFTS__ = [
 ];
 
 window.__OBJECTS__ = {
-  'famous': ['Guido Van Rossum', 'Alva Noto', 'Tom Odell',
+  'famous': ['Guido Van Rossum', 'Carsten Nicolai', 'Tom Odell',
              'Evgeny Grinko', 'Kahtalı Mıçı'],
   'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'ebelemece'],
   'group': ['veliler', 'emekliler'],

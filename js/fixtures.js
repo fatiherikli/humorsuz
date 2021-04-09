@@ -49,7 +49,7 @@ window.__OBJECTS__ = {
     'nükleer silah', 'Boeing 777',
     'lama', 'metrobüs', 'selfie çubuğu', 'fısfıs'
   ],
-  'weather': ['kar', 'yağmur', 'sıcak', 'selfie çubuklarımızı çıkarıyoruz arkadaşlar yoksa intihar ederim'],
+  'weather': ['kar', 'yağmur', 'sıcak', "selfie çubuklarımızı çıkarıyoruz arkadaşlar yoksa intihar ederim'"],
   'cigar': ['sigara', 'pipo tütünü', 'yarım selfie çubuğu'],
   'number': [4, 8, 15, 16, 23, 42, 78],
   'unit': ['piksel', 'santim', 'selfie çubuğu', 'yarım selfie çubuğu', 'Math.pi() / yarım selfie çubuğu / 3.14']

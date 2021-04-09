@@ -56,7 +56,7 @@ window.__OBJECTS__ = {
 };
 
 window.__IMAGES__ = {
-  'Guido Van Rossum': ['guido.png', 'centered'],
+  'Guido Van Rossum': ['guido.png', '__self_centered__'],
   'Alva Noto': ['RasterNoton-NotoLive.png?https://an-experiment.com', 'centered'],
   'proteineAbanKanka': ['tom.png', 'centered'],
   'saklambaç': ['saklambac.png', 'cover'],

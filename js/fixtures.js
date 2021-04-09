@@ -41,20 +41,21 @@ window.__OBJECTS__ = {
   'vehicle': ['metrobüs', 'at', 'Tom Odell', 'Evgeny Grinko', 'selfie çubuğu', 'Boeing 777'],
   'punishment': ['idam', 'hapis', 'halay', 'zeybek'],
   'town': ['Burdur', 'Bilecik', 'Ankara', 'Karabük', 'Bolu', 'Samsun', 'Adana', 'Adıyaman'],
-  'weapon': ['roketatar', 'muz', 'ak-47', 'gülle', 'Evgeny Grinko', 'nükleer silah', 'selfie çubuğu'],
+  'weapon': ['roketatar', 'muz', 'ak-47', 'gülle', 'Evgeny Grinko', 'nükleer silah', 'selfie çubuğu',
+            'selfie çubuğu', 'selfie çubuğu', 'selfie çubuğu', 'selfie çubuğu','selfie çubuğu'],
   'bug': ['lama', 'menemen', 'selfie çubuğu'],
-  'noun': [
-    'buzdolabı', 'menemen', 'gülle', 'at',
-    'muz', 'Tom Odell', 'ak-47', 'roketatar',
-    'Macbook Air', 'sigara', 'Evgeny Grinko',
-    'nükleer silah', 'Boeing 777',
+  'noun': ['selfie çubuğu',
+    'buzdolabı', 'menemen', 'küskü', 'at',
+    'banane', 'Tom Odell', 'ak-47', 'roket',
+    'Macbook Air', 'cigara', 'Evgeny Grinko',
+    'quantum makinesi', 'Boeing 777',
     'lama', 'metrobüs', 'selfie çubuğu',
-    'hoparlör', 'fotoğraf'
+    'haparlör', 'fotoğraf', 'selfie çubuğu'
   ],
-  'weather': ['kar', 'yağmur', 'sıcak'],
-  'cigar': ['sigara', 'pipo tütünü'],
+  'weather': ['kar', 'yağmur', 'sıcak', 'kezzap', 'selfie çubuğu'],
+  'cigar': ['sigara', 'pipo tütünü', 'hastane'],
   'number': [4, 8, 15, 16, 23, 42, 78],
-  'unit': ['piksel', 'santim']
+  'unit': ['px', 'cm', 'unite 1 çocuklar', 'selfie çubuğu', 'ünite 1 selfie çubuğu çocuklar']
 };
 
 window.__IMAGES__ = {

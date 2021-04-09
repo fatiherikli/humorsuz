@@ -32,19 +32,19 @@ window.__DRAFTS__ = [
 ];
 
 window.__OBJECTS__ = {
-  'famous': ['Guido Van Rossum', 'Alva Noto', 'Tom Odell',
+  'famous': ['Guido Van Rossum', 'Alva Noto', 'PersonWithBlueEyesGenderUnknown',
              'Evgeny Grinko', 'Hegel'],
   'game': ['saklambaç', 'körebe', 'halay', 'zeybek', 'seksek', 'piyano', 'kumar'],
   'group': ['veliler', 'emekliler'],
   'organizationMember': ['sevenleri', 'fanları', 'ayranları'],
-  'vehicle': ['metrobüs', 'at', 'Tom Odell', 'Evgeny Grinko', 'selfie çubuğu', 'Boeing 777'],
+  'vehicle': ['metrobüs', 'at', 'PersonWithBlueEyesGenderUnknown', 'Evgeny Grinko', 'selfie çubuğu', 'Boeing 777'],
   'punishment': ['idam', 'hapis', 'halay', 'zeybek'],
   'town': ['Burdur', 'Bilecik', 'Ankara', 'Karabük', 'Bolu', 'Samsun', 'Adana', 'Adıyaman'],
   'weapon': ['roketatar', 'muz', 'ak-47', 'gülle', 'Evgeny Grinko', 'nükleer silah', 'selfie çubuğu'],
   'bug': ['lama', 'menemen', 'selfie çubuğu'],
   'noun': [
     'buzdolabı', 'menemen', 'gülle', 'at',
-    'muz', 'Tom Odell', 'ak-47', 'roketatar',
+    'muz', 'PersonWithBlueEyesGenderUnknown', 'ak-47', 'roketatar',
     'Macbook Pro', 'sigara', 'Evgeny Grinko',
     'nükleer silah', 'Boeing 777',
     'lama', 'metrobüs', 'selfie çubuğu', 'fısfıs'
@@ -58,7 +58,7 @@ window.__OBJECTS__ = {
 window.__IMAGES__ = {
   'Guido Van Rossum': ['guido.png', 'centered'],
   'Alva Noto': ['RasterNoton-NotoLive.png?https://an-experiment.com', 'centered'],
-  'Tom Odell': ['tom.png', 'centered'],
+  'PersonWithBlueEyesGenderUnknown': ['tom.png', 'centered'],
   'saklambaç': ['saklambac.png', 'cover'],
   'körebe': ['korebe.png', 'cover'],
   'zeybek': ['zeybek.png', 'cover'],

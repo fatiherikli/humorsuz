@@ -58,8 +58,8 @@ window.__OBJECTS__ = {
 };
 
 window.__IMAGES__ = {
-  'Guido Van Rossum': ['guido.png', 'centered'],
-  'Alva Noto': ['alva.png', 'centered'],
+  'Guido Van Rossum': ['guido.png', 'self-centered'],
+  'Alva Noto': ['RasterNoton-NotoLive.png', 'centered'],
   'Tom Odell': ['tom.png', 'centered'],
   'saklambaç': ['saklambac.png', 'cover'],
   'körebe': ['korebe.png', 'cover'],

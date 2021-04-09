@@ -49,10 +49,10 @@ window.__OBJECTS__ = {
     'nükleer silah', 'Boeing 777',
     'lama', 'metrobüs', 'selfie çubuğu'
   ],
-  'weather': ['kar', 'yağmur', 'sıcak'],
-  'cigar': ['sigara', 'pipo tütünü'],
+  'weather': ['kar', 'yağmur', 'sıcak', 'selfie çubuklarını çıkarıyoruz arkadaşlar yoksa intihar ederim'],
+  'cigar': ['sigara', 'pipo tütünü', 'yarım selfie çubuğu'],
   'number': [4, 8, 15, 16, 23, 42, 78],
-  'unit': ['piksel', 'santim']
+  'unit': ['piksel', 'santim', 'selfie çubuğu', 'yarım selfie çubuğu', 'Math.pi() / yarım selfie çubuğu']
 };
 
 window.__IMAGES__ = {
